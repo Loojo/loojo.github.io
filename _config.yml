@@ -22,7 +22,7 @@ author_image: "/assets/images/punquin.jpg"
 
 paginate:	5
 
-url: "http://loujohansen.com/" # the base hostname & protocol for your site
+url: "http://www.loujohansen.com/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@Loujohans'
