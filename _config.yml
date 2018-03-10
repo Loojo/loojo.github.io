@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Lou Johansen"
+title: "Emily Oakes"
 description: > # this means to ignore newlines until "email:"
   writer
 
-email: lou@loujohansen.com
+email: emily@emilyoakes.com
 #blog logo
 logo: "/assets/images/whitepun.png"
 float_logo: true # true, false (default)
@@ -16,16 +16,16 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/fruit_salad.jpg"
 
-name: 'Lou Johansen'
-author: 'Lou Johansen'
+name: 'Emily Oakes'
+author: 'Emily Oakes'
 author_image: "/assets/images/punquin.jpg"
 
 paginate:	5
 
-url: "http://www.loujohansen.com/" # the base hostname & protocol for your site
+url: "http://www.emilyoakes.com/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@Loujohans'
+twitter_handle: '@Emmyoakes'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,14 +35,14 @@ twitter_handle: '@Loujohans'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/Loujohans
+    url:	https://twitter.com/Emmyoakes
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:	facebook
-    url:	https://facebook.com/writerlou
+    url:	https://facebook.com/authoroakes
     desc: Connect with me facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
