@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: emily@emilyoakes.com
 #blog logo
-logo: "/assets/images/whitepun.png"
+logo: "/assets/images/Johansen_Lou_WebsiteImage.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
