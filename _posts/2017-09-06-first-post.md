@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "The Dark Lily"
+title:  "The Dark Lily. Click Here."
 date:   2018-06-20 20:55:25
 ---
 
  
 
-New release! Following your heart can be deadly. Ignoring it can be even worse. Click title to find out more.
+New release! Following your heart can be deadly. Ignoring it can be even worse...
 
 Orphaned at a young age after a harrowing voyage to New Zealand, English native Laura has suffered more than most. Shown mercy by a clan of formidable Maori tribesmen, she is raised as one of their own.
 
