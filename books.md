@@ -15,3 +15,15 @@ When her parents decide to pull off one last job things don't go as planned, and
 Milly's dad finds a small town near her mom's hospice, seemingly cut off from the outside world. Sure, the residents eat the same boring food every day, and the town is void of any color, but at least nobody there knows about the Robin Hood Vigilantes.
 
 Pear Tree Ville seems a little strange at first, but it isn't long before it turns downright dangerous. Something lurks beneath the surface of Pear Tree Ville, and it's anything but friendly.
+
+The Dark Lily
+
+[![Click to find out more.](/assets/images/Lily.png)](https://www.amazon.com/dp/B07D9DD4GS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1527285078&sr=1-1&keywords=the+dark+lily/) 
+
+Orphaned at a young age after a harrowing voyage to New Zealand, English native Laura has suffered more than most. Shown mercy by a clan of formidable Maori tribesmen, she is raised as one of their own.
+
+Years later, English settler James Mason, visits their village and is besotted with Laura. Their relationship blossoms swiftly and it isn’t long before Laura falls pregnant.
+
+Shortly after giving birth to their daughter, Lily, Laura is caught in the middle of a violent clash between two warring cultures, and is gravely wounded and abducted from the village.
+
+Assumed dead by all but James, he vows to find her, while taking up the challenging task of raising his daughter alone in the unforgiving land that is nineteenth century New Zealand.
