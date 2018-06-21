@@ -4,10 +4,9 @@ title: Books
 permalink: /books/
 ---
 
-# The Beige Ones. YA novel.     
-    [![Click to find out more.](/assets/images/Beige.png)](https://www.amazon.com/Beige-Ones-Emily-Oakes-ebook/dp/B07DHZ14GT/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1529554570&sr=1-1&keywords=the+beige+ones/)                                      
+# The Beige Ones. YA novel.  
 
-
+[![Click to find out more.](/assets/images/Beige.png)](https://www.amazon.com/Beige-Ones-Emily-Oakes-ebook/dp/B07DHZ14GT/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1529554570&sr=1-1&keywords=the+beige+ones/)
 
 Being a teenager is hard. It's harder when your parents are wanted criminals; even if they are known as the Robin Hood Vigilantes.
 
