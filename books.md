@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-The Beige Ones. YA novel.     
+# The Beige Ones. YA novel.     
     [![Click to find out more.](/assets/images/Beige.png)](https://www.amazon.com/Beige-Ones-Emily-Oakes-ebook/dp/B07DHZ14GT/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1529554570&sr=1-1&keywords=the+beige+ones/)                                      
 
 
@@ -16,7 +16,7 @@ Milly's dad finds a small town near her mom's hospice, seemingly cut off from th
 
 Pear Tree Ville seems a little strange at first, but it isn't long before it turns downright dangerous. Something lurks beneath the surface of Pear Tree Ville, and it's anything but friendly.
 
-The Dark Lily
+# The Dark Lily
 
 [![Click to find out more.](/assets/images/Lily.png)](https://www.amazon.com/dp/B07D9DD4GS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1527285078&sr=1-1&keywords=the+dark+lily/) 
 
