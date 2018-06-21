@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Release: The Dark Lily"
+title:  "The Dark Lily"
 date:   2018-06-20 20:55:25
 ---
 
