@@ -25,15 +25,12 @@ layout: default
       {% endfor %}
       <a href={{ "/books/" | prepend: site.baseurl }}>Books</a>
       <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
-     </div>
+      <a href={{ "/contact/" | prepend: site.baseurl }}>Contact</a>
+    </div>
 </header>
-
-
 <main class="content" role="main">
-
     {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
-
     <div class="container featured">
       {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
@@ -52,10 +49,8 @@ layout: default
         </article>
       {% endfor %}
     </div>
-
     <h5 class="index-headline normal"><span>Regular</span></h5>
     {% endif %}
-
     <div class="cf frame">
       {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
@@ -74,7 +69,6 @@ layout: default
         </article>
       {% endfor %}
     </div>
-
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
         <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
@@ -88,9 +82,21 @@ layout: default
         {% endif %}
       {% endif %}
     </nav>
-
-
     <!-- {{!! After all the posts, we have the previous/next pagination links }}
     {{pagination}} -->
-
 </main>
+
+    © 2018 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    API
+    Training
+    Shop
+    Blog
+    About
+
