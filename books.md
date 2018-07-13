@@ -26,3 +26,11 @@ Years later, English settler James Mason, visits their village and is besotted w
 Shortly after giving birth to their daughter, Lily, Laura is caught in the middle of a violent clash between two warring cultures, and is gravely wounded and abducted from the village.
 
 Assumed dead by all but James, he vows to find her, while taking up the challenging task of raising his daughter alone in the unforgiving land that is nineteenth century New Zealand.
+
+# Still Warm
+
+[![Click to find out more.](/assets/images/stillwarm.png)](https://www.amazon.com/Still-Warm-Emily-Oakes-ebook/dp/B079C44XVG/ref=sr_1_2?ie=UTF8&qid=1531479577&sr=8-2&keywords=still+warm)
+
+After discovering their mother's old diary in a dusty trunk, Alana and Libby Dallington discover their seemingly perfect mother once teased a classmate so much she ended up taking her own life.
+
+When Libby decides to follow in her mother's ghastly footsteps, the spirit of the dead girl vows to take her revenge on the prosperous Dallington family.
