@@ -17,7 +17,7 @@ Pear Tree Ville seems a little strange at first, but it isn't long before it tur
 
 # The Dark Lily
 
-[![Click to find out more.](/assets/images/Lily.png)](https://www.amazon.com/dp/B07D9DD4GS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1527285078&sr=1-1&keywords=the+dark+lily/) 
+[![Click to find out more.](/assets/images/Lily.png)](https://www.amazon.com/dp/B07G4FVC2B) 
 
 Orphaned at a young age after a harrowing voyage to New Zealand, English native Laura has suffered more than most. Shown mercy by a clan of formidable Maori tribesmen, she is raised as one of their own.
 
