@@ -6,6 +6,8 @@ permalink: /books/
 
 # The Witch Stone
 
+(/assets/images/Thewitchstonebook.png)
+
 As a Witch, Brenna Ravenwood is no stranger to adversity. When she inherits her grandmother's land, she is excited to return to her ancestral home. But when Brenna is attacked by an evil entity, she is suddenly way out of her depths.
 
 Warned never to return, she must choose whether to abandon her home or fight.With the help of a mysterious stranger and his pet wolf, Brenna discovers the souls of hundreds of witches are being tortured and blocked from moving on.
@@ -37,7 +39,7 @@ Assumed dead by all but James, he vows to find her, while taking up the challeng
 
 # Still Warm
 
-[![Click to find out more.](/assets/images/stillwarm.png)](https://www.amazon.com/Still-Warm-Emily-Oakes-ebook/dp/B079C44XVG/ref=sr_1_2?ie=UTF8&qid=1531479577&sr=8-2&keywords=still+warm)
+[![Click to find out more.](/assets/images/stillwarmbook3d.png)](https://www.amazon.com/Still-Warm-Emily-Oakes-ebook/dp/B079C44XVG/ref=sr_1_2?ie=UTF8&qid=1531479577&sr=8-2&keywords=still+warm)
 
 After discovering their mother's old diary in a dusty trunk, Alana and Libby Dallington discover their seemingly perfect mother once teased a classmate so much she ended up taking her own life.
 
