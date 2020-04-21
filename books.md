@@ -6,8 +6,7 @@ permalink: /books/
 
 # The Witch Stone
 
-
-(/assets/images/Thewitchstonebook.png)
+[![Click to find out more.](/assets/images/Thewitchstonebook.png)
 
 As a Witch, Brenna Ravenwood is no stranger to adversity. When she inherits her grandmother's land, she is excited to return to her ancestral home. But when Brenna is attacked by an evil entity, she is suddenly way out of her depths.
 
