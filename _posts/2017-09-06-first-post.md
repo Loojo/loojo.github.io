@@ -16,7 +16,7 @@ Shortly after giving birth to their daughter, Lily, Laura is caught in the middl
 
 Assumed dead by all but James, he vows to find her, while taking up the challenging task of raising his daughter alone in the unforgiving land that is nineteenth century New Zealand.
  
-The Dark Lily, out now on Amazon. [Click here to buy.](https://www.amazon.com/dp/B07D9DD4GS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1527285078&sr=1-1&keywords=the+dark+lily)
+The Dark Lily, out now on Amazon. [Click here to buy.](https://www.amazon.com/dp/B07G4FVC2B?fbclid=IwAR2kfsP52mXj1a7OdCB4eiZydPX_sS8AiXWlBojcBnFdVBWfq-RAG1il1IQ)
 
 
 
