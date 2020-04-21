@@ -4,6 +4,14 @@ title: Books
 permalink: /books/
 ---
 
+# The Witch Stone
+
+As a Witch, Brenna Ravenwood is no stranger to adversity. When she inherits her grandmother's land, she is excited to return to her ancestral home. But when Brenna is attacked by an evil entity, she is suddenly way out of her depths.
+
+Warned never to return, she must choose whether to abandon her home or fight.With the help of a mysterious stranger and his pet wolf, Brenna discovers the souls of hundreds of witches are being tortured and blocked from moving on.
+
+It soon becomes clear that in order to save her future, she will need to embrace her past.
+
 # The Beige Ones. YA novel.  
 
 [![Click to find out more.](/assets/images/Beige.png)](https://www.amazon.com/Beige-Ones-Emily-Oakes-ebook/dp/B07DHZ14GT/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1529554570&sr=1-1&keywords=the+beige+ones/)
