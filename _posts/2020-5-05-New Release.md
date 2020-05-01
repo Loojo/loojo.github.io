@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Witch Stone. Click Here."
+title:  "The Witch Stone."
 date:   2020-05-02 20:55:25
 ---
 
